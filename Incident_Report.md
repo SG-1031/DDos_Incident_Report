@@ -1,12 +1,12 @@
 # Incident Report: DDoS Attack
 
-## 🕵️ Summary
+## Summary
 
 A Distributed Denial of Service (DDoS) attack using a flood of ICMP packets targeted our multimedia company's internal network, rendering it unresponsive for two hours. The attack exploited a misconfigured firewall, allowing traffic from external malicious sources. The incident was mitigated by blocking ICMP packets, taking non-critical services offline, and restoring essential services.
 
 ---
 
-## 🔍 Incident Details
+## Incident Details
 
 - **Type of attack**: Distributed Denial of Service (DDoS) using ICMP flood
 - **Cause**: Firewall misconfiguration allowed external ICMP traffic
@@ -17,7 +17,7 @@ A Distributed Denial of Service (DDoS) attack using a flood of ICMP packets targ
 
 ---
 
-## 📈 Estimated Impact
+## Estimated Impact
 
 - Loss of network connectivity internally
 - Disruption to client-facing services
