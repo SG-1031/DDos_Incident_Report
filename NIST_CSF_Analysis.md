@@ -1,6 +1,6 @@
 # NIST CSF-Based Analysis of DDoS Incident
 
-## 1. 🧭 Identify
+## 1. Identify
 
 - **Assets Affected**: Network infrastructure, servers, firewalls
 - **Business Impacted**: Web design, social media, and graphic design services disrupted
@@ -8,7 +8,7 @@
 
 ---
 
-## 2. 🛡️ Protect
+## 2. Protect
 
 - Implemented a new firewall rule to rate-limit incoming ICMP packets
 - Source IP address verification enabled to detect spoofed traffic
@@ -16,7 +16,7 @@
 
 ---
 
-## 3. 🔎 Detect
+## 3. Detect
 
 - Deployed network monitoring software to detect abnormal traffic spikes
 - IDS/IPS systems configured to flag and filter suspicious ICMP packets
@@ -24,7 +24,7 @@
 
 ---
 
-## 4. 🚨 Respond
+## 4. Respond
 
 - Blocked incoming ICMP packets during the attack
 - Took non-critical services offline to preserve critical operations
@@ -32,7 +32,7 @@
 
 ---
 
-## 5. 🛠️ Recover
+## 5. Recover
 
 - Restored critical systems after blocking attack vectors
 - Validated all systems were operational post-attack
