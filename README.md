@@ -4,8 +4,8 @@ This project documents the analysis of a Distributed Denial of Service (DDoS) at
 
 ## 📋 Contents
 
-- `incident-report.md` — A summary of the DDoS incident, response actions, and outcomes.
-- `nist-csf-analysis.md` — A breakdown of the event using the five core functions of the NIST CSF: Identify, Protect, Detect, Respond, and Recover.
+- `Incident_Report.md` — A summary of the DDoS incident, response actions, and outcomes.
+- `NIST_CSF_Analysis.md` — A breakdown of the event using the five core functions of the NIST CSF: Identify, Protect, Detect, Respond, and Recover.
 
 ## 🎯 Purpose
 
